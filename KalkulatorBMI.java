@@ -1,13 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package studikasus;
-
-/**
- *
- * @author Aurora Yuke
- */
 import java.util.Scanner;
 public class KalkulatorBMI {
    
@@ -56,4 +46,5 @@ public class KalkulatorBMI {
         System.out.println("Terima kasih telah menggunakan Kalkulator BMI!");
         input.close();
     }
+
 }
